@@ -1,0 +1,5 @@
+flask
+flask_cors
+torch
+torchvision
+numpy==1.21.0
